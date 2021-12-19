@@ -1,0 +1,30 @@
+.page-layout{
+    padding: 50px;
+}
+.coverp-title{
+    text-align: center;
+    color:#1d78e2;
+}
+.group-name{
+    text-align: center;
+    color:#c94536;
+}
+.cover-footer{
+    text-align: center;
+    font-weight: 600;
+}
+.toc-title{
+    font-family: Comic Sans MS;
+    text-align: center;
+}
+.toc-body{
+    margin-left: 30%;
+    font-weight: 600;
+}
+.test-pic{
+    display:flex;
+}
+img{
+    width: 370px;
+    margin-right:10px;
+}
